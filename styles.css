@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+form {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 5px;
+}
+
+input {
+  margin-left: 5px;
+}
+
+.user {
+  display: inline-block;
+  border: 1px solid #111;
+  padding: 10px;
+}
+
+.user a {
+  font-size: 20px;
+}
+
+img {
+  margin: 20px;
+}
